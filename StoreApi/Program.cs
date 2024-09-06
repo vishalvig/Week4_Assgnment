@@ -1,8 +1,11 @@
 using ApplicationTier.Classes;
 using ApplicationTier.Interfaces;
+using IndustryConnect_Week_Microservices.Models;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddDbContext<IndustryConnectWeek2Context>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // Add services to the container.
 
 builder.Services.AddControllers();

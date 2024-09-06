@@ -27,6 +27,22 @@ namespace CustomerApi.Controllers
             return new JsonResult(customer); 
         }
 
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteCustomer(int id)
+        {
+            // Call the delete method in the service layer
+            var deletedCustomer = await _customerMethods.DeleteCustomer(id);
+
+            // If customer doesn't exist, return NotFound (404)
+            if (deletedCustomer == null)
+            {
+                return NotFound(new { message = "Customer not found" });
+            }
+
+            // Return Ok (200) with the details of the deleted customer
+            return Ok(deletedCustomer);
+        }
+
 
     }
 }

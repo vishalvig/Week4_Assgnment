@@ -13,21 +13,26 @@ namespace ApplicationTier.Classes
     public class StoreMethods : IStoreMethods
     {
 
+        private readonly IndustryConnectWeek2Context _context;
 
-        public StoreMethods() { }
+        // Constructor with dependency injection
+        public StoreMethods(IndustryConnectWeek2Context context)
+        {
+            _context = context;
+        }
 
         public async Task<StoreDto> AddStore(string name)
         {
-            var context = new IndustryConnectWeek2Context();
+            //var context = new IndustryConnectWeek2Context();
 
             var store = new Store
             {
                Name = name
             };
 
-            context.Add(store);
+            _context.Add(store);
 
-            await context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
 
             return Mapper(store);
 
@@ -36,9 +41,9 @@ namespace ApplicationTier.Classes
 
         public async Task<StoreDto> GetStore(int StoreId)
         {
-            var context = new IndustryConnectWeek2Context();
+            //var context = new IndustryConnectWeek2Context();
 
-            var store = await context.Stores.Include(s => s.Sales)
+            var store = await _context.Stores.Include(s => s.Sales)
                 .ThenInclude(p => p.Product).FirstOrDefaultAsync(s => s.Id == StoreId);
 
 

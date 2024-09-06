@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\IndustryConnect_Week_Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EB0A96-7875-4FA1-B724-87A024A4215B}|..\\StoreApi\\StoreApi.csproj|d:\\indusry connect\\week4\\week4_assignment\\storeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6892805-FFCA-4A0A-85AF-7A816F47EB5E}|..\\SaleApi\\SaleApi.csproj|d:\\indusry connect\\week4\\week4_assignment\\saleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\indusry connect\\week4\\week4_assignment\\applicationtier\\classes\\storemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\indusry connect\\week4\\week4_assignment\\applicationtier\\classes\\customermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07C9F1C-1623-4665-ADA1-CC7420475C78}|..\\CustomerApi\\CustomerApi.csproj|d:\\indusry connect\\week4\\week4_assignment\\customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07C9F1C-1623-4665-ADA1-CC7420475C78}|..\\CustomerApi\\CustomerApi.csproj|d:\\indusry connect\\week4\\week4_assignment\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|d:\\indusry connect\\week4\\week4_assignment\\industryconnect_week_microservices\\models\\industryconnectweek2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|solutionrelative:models\\industryconnectweek2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07C9F1C-1623-4665-ADA1-CC7420475C78}|..\\CustomerApi\\CustomerApi.csproj|d:\\indusry connect\\week4\\week4_assignment\\customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\indusry connect\\week4\\week4_assignment\\applicationtier\\classes\\salemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\indusry connect\\week4\\week4_assignment\\applicationtier\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6892805-FFCA-4A0A-85AF-7A816F47EB5E}|..\\SaleApi\\SaleApi.csproj|d:\\indusry connect\\week4\\week4_assignment\\saleapi\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\indusry connect\\week4\\week4_assignment\\applicationtier\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|d:\\indusry connect\\week4\\week4_assignment\\industryconnect_week_microservices\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C780D3-8100-487F-865E-93C731AFC20A}|IndustryConnect_Week_Microservices.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F722821B-B99F-40AC-95ED-9A987D5D6CEF}|..\\ApplicationTier\\ApplicationTier.csproj|d:\\indusry connect\\week4\\week4_assignment\\applicationtier\\interfaces\\icustomermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerMethods.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:29:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "..\\CustomerApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "..\\CustomerApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvzAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:29:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleMethods.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwCIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:43:45.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\CustomerApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CustomerApi\\Program.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\CustomerApi\\Program.cs",
+              "RelativeToolTip": "..\\CustomerApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:20:30.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\StoreApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\StoreApi\\appsettings.json",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\StoreApi\\appsettings.json",
+              "RelativeToolTip": "..\\StoreApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T03:55:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreMethods.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Classes\\StoreMethods.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Classes\\StoreMethods.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Classes\\StoreMethods.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Classes\\StoreMethods.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:35:17.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\CustomerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\CustomerApi\\appsettings.json",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\CustomerApi\\appsettings.json",
+              "RelativeToolTip": "..\\CustomerApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T03:53:06.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\SaleApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\SaleApi\\appsettings.json",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\SaleApi\\appsettings.json",
+              "RelativeToolTip": "..\\SaleApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T03:55:28.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IndustryConnectWeek2Context.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\IndustryConnect_Week_Microservices\\Models\\IndustryConnectWeek2Context.cs",
+              "RelativeDocumentMoniker": "Models\\IndustryConnectWeek2Context.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\IndustryConnect_Week_Microservices\\Models\\IndustryConnectWeek2Context.cs",
+              "RelativeToolTip": "Models\\IndustryConnectWeek2Context.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wBwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:53:34.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:37:40.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\SaleApi\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "..\\SaleApi\\Controllers\\SaleController.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\SaleApi\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "..\\SaleApi\\Controllers\\SaleController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:17:19.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\IndustryConnect_Week_Microservices\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\IndustryConnect_Week_Microservices\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:38:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Dtos\\CustomerDto.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Dtos\\CustomerDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:30:41.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerMethods.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week4\\Week4_Assignment\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "RelativeToolTip": "..\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:29:35.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

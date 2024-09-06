@@ -7,5 +7,7 @@ namespace ApplicationTier.Interfaces
         Task<CustomerDto> AddCustomer(string firstName, string lastName, DateTime? dateOfBirth);
 
         Task<CustomerDto> GetCustomer(int CustomerId);
+
+        Task<CustomerDto> DeleteCustomer(int CustomerId);
     }
 }
